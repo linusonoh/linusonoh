@@ -1,11 +1,38 @@
-### Hi, Im Linus
+<h2 align="center">Hi, I'm Linus Onoh 👋</h2>
+<h4 align="center">Frontend Developer • Web Enthusiast • App Builder</h4>
 
+---
 
-Computer Engineer | Web Developer | Data Analyst.  
-Currently exploring open-source projects and improving my web development skills.  
-Computer/Electronics Engineer  
-Data Analyst  
-Currently learning software development, front-end and back-end  
+<!-- Typing Intro GIF -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Linus+Onoh;Frontend+Developer;Welcome+to+my+GitHub!&center=true&size=20" alt="Typing Intro"/>
+</p>
 
-[![Linus's GitHub stats](https://github-readme-stats.vercel.app/api?username=linusonoh)](https://github.com/linusonoh/github-readme-stats)
+---
 
+## 🚀 About Me
+I'm a computer engineer and developer passionate about building web apps and clean frontend interfaces.  
+
+- 👨‍💻 Skilled in: **HTML, CSS**  
+- 🧠 Studied **Data Analysis at NIIT Enugu (2025)**  
+- 🎥 I run a YouTube channel: [ItsQuickGist](https://www.youtube.com/@itsquickgist)  
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+---
+
+<!-- Small Coding GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="120" alt="Coding Animation"/>
+</p>
+
+---
+
+<p align="center">✨ Thanks for visiting my profile ✨</p>
