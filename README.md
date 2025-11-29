@@ -7,6 +7,5 @@ Computer/Electronics Engineer
 Data Analyst  
 Currently learning software development, front-end and back-end  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=linusonoh&show_icons=true&theme=tokyonight)
-
+[![Linus's GitHub stats](https://github-readme-stats.vercel.app/api?username=linusonoh)](https://github.com/linusonoh/github-readme-stats)
 
