@@ -10,17 +10,17 @@
 
 ---
 
-## 🚀 About Me
-I'm a computer engineer and developer passionate about building web apps and clean frontend interfaces.  
+## 🚀 About Me  
+I'm a computer engineer and developer passionate about building clean, fast, and user-friendly web interfaces.
 
-- 👨‍💻 Skilled in: **HTML, CSS**  
+- 👨‍💻 Skilled in **HTML, CSS**  
 - 🧠 Studied **Data Analysis at NIIT Enugu (2025)**  
-- 🎥 I run a YouTube channel: [ItsQuickGist](https://www.youtube.com/@itsquickgist)  
+- 🎥 I run the YouTube channel **ItsQuickGist**  
+- 🚧 Always learning, building, and improving  
 
 ---
 
-## 🛠️ Languages and Tools
-
+## 🛠️ Languages & Tools  
 <p align="left">
   <img src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -28,13 +28,32 @@ I'm a computer engineer and developer passionate about building web apps and cle
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
+<p align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=linusonoh&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=linusonoh&layout=compact&theme=radical" height="150"/>
+
+  <!-- Main Stats (Green + Black + Red) -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=linusonoh&show_icons=true&title_color=00ff00&text_color=ffffff&icon_color=ff0000&bg_color=000000&hide_border=false" 
+    height="170"
+  />
+
+  <!-- Streak Stats (Green + Red on Black) -->
+  <img 
+    src="https://nirzak-streak-stats.vercel.app/?user=linusonoh&background=000000&ring=00ff00&fire=ff0000&currStreakNum=ffffff&sideNums=00ff00&currStreakLabel=ff0000&sideLabels=ffffff&dates=00ff00&hide_border=false" 
+    height="170"
+  />
+
+  <!-- Top Languages (Green + Red on Black) -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=linusonoh&layout=compact&title_color=00ff00&text_color=ffffff&bg_color=000000&hide_border=false" 
+    height="170"
+  />
+
 </p>
 
----
 
-<p align="center">✨ Thanks for visiting my profile ✨</p>
+</p>
+
+
