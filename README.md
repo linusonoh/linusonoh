@@ -28,9 +28,11 @@ I'm a computer engineer and developer passionate about building web apps and cle
 
 ---
 
-<!-- Small Coding GIF -->
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="120" alt="Coding Animation"/>
+  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=linusonoh&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=linusonoh&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---
