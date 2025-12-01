@@ -51,9 +51,5 @@ I'm a computer engineer and developer passionate about building clean, fast, and
     height="170"
   />
 
-</p>
-
-
-</p>
 
 
