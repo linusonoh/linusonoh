@@ -20,11 +20,6 @@ I'm a computer engineer and developer passionate about building clean, fast, and
 
 ---
 
-## 🛠️ Languages & Tools  
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
 
 ---
 
